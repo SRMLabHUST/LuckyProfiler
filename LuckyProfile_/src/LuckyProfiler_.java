@@ -211,7 +211,7 @@ public class LuckyProfiler_ implements PlugInFilter {
         gridbag.setConstraints(StartjButton, gbc);
         jf.add(StartjButton);
 
-        jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        jf.setDefaultCloseOperation(WindowConstants.DISPOSE_ON_CLOSE);
         jf.setSize(325, 250);
 
         int screenWidth = Toolkit.getDefaultToolkit().getScreenSize().width;
