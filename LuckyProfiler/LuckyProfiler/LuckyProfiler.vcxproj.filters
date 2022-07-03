@@ -21,7 +21,7 @@
     <ClInclude Include="skeleton.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\a_XiaoYinghao\research material\LuckyProfile_\LuckyProfile_\src\LuckyProfiler_.h">
+    <ClInclude Include="..\..\..\a_XiaoYinghao\research_material\LuckyProfile_\LuckyProfile_\src\LuckyProfiler_.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
